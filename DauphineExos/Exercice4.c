@@ -14,6 +14,6 @@ void main()
         printf("%d est un nombre pair.", i);
     }
 
-    else{printf("%d n'est pas un nombre pair. En effet le nomnre %d n'est pas divisible par 2", i, i);};
+    else{printf("%d est pas un nombre impair. En effet le nombre %d n'est pas divisible par 2", i, i);}
 
 }
